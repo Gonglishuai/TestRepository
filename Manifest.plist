@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.yb.mobile.games</string>
 				<key>bundle-version</key>
-				<string>0.0.0.1</string>
+				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
@@ -48,7 +48,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://appdown.yabovip5.com/iOS/YaboGames/0.0.0.1/YABO_V0.0.0.1.ipa</string>
+					<string>http://jira.hnxmny.com:8090/download/attachments/20611265/0184dd6b8606fa813404ec07b1e0946e-resigned-used.ipa?version=1&modificationDate=1555419873000&api=v2</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -66,13 +66,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yb.mobile.games</string>
+				<string>com.yabo.agent</string>
 				<key>bundle-version</key>
-				<string>0.0.0.1</string>
+				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>亚博全站2</string>
+				<string>agent</string>
 			</dict>
 		</dict>
 	</array>
