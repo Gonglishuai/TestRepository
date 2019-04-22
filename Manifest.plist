@@ -38,6 +38,46 @@
 				<string>亚博全站1</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://kefax.jkinvest.cn/Kefax/download/Kefax_product.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string></string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>subtitle</key>
+				<string></string>
+				<key>title</key>
+				<string>恪金所正式</string>
+				<key>bundle-version</key>
+				<string>2.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>bundle-identifier</key>
+				<string>com.jkinvest.Kefax-Product</string>
+			</dict>
+		</dict>
 	</array>
 	
 </dict>
