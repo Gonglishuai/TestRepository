@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yabo.agent</string>
+				<string>com.yabo.mobile06</string>
 				<key>bundle-version</key>
-				<string>1.1.0</string>
+				<string>3.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>亚博全站</string>
+				<string>亚博 体育</string>
 			</dict>
 		</dict>
 	</array>
